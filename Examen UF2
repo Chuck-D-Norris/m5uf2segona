@@ -1,1 +1,2 @@
-Fixer del examen
+Per entendre el funcionament el que fa el es utilitzan el unitest per poder realitzar comprovacions de manera correcta i eficient
+El test se executa ambn el fixer calculadora.py que de alli agafa la informacio corresponent per poder fer els testos primer comença per la suma segueix la resta diviso multiplicacio i per ultimel factorial
